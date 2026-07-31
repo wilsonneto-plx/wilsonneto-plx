@@ -18,7 +18,10 @@ Sou um desenvolvedor apaixonado por arquitetura limpa, APIs bem estruturadas e q
 
 #### **Back-End & Arquitetura**
 - **Linguagem & Conceitos:** Java, Orientação a Objetos (POO), Clean Code.
-- **Ecossistema Spring:** Spring Boot, Spring Web, Spring Security, Spring Data JPA, Lombok.
+- **Ecossistema Spring:** Spring Boot, Spring Web e Spring Cloud Routing.
+- **Persistência & Dados:** Spring Data JPA, Drivers PostgreSQL e MySQL.
+- **Validação & Integrações:** Spring Validation e integração com IA (OpenAI).
+- **Produtividade:** Lombok e Spring Boot DevTools.
 - **Arquitetura & APIs:** Design de APIs RESTful em camadas (*Controller, Service, Repository*), padrão DTO (*Data Transfer Object*) e Tratamento Global de Exceções com `@ControllerAdvice` e `@Valid`.
 
 #### **Front-End & Web (Fundamentos)**
@@ -31,7 +34,7 @@ Sou um desenvolvedor apaixonado por arquitetura limpa, APIs bem estruturadas e q
 
 #### **Banco de Dados & Ferramentas**
 - **Bancos Relacionais:** PostgreSQL, MySQL.
-- **Ferramentas & DevOps:** Git, GitHub, Postman, IntelliJ IDEA.
+- **Ferramentas:** Git, GitHub, Postman, IntelliJ IDEA.
 
 ---
 
