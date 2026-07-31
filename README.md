@@ -21,6 +21,10 @@ Sou um desenvolvedor apaixonado por arquitetura limpa, APIs bem estruturadas e q
 - **Ecossistema Spring:** Spring Boot, Spring Web, Spring Security, Spring Data JPA, Lombok.
 - **Arquitetura & APIs:** Design de APIs RESTful em camadas (*Controller, Service, Repository*), padrão DTO (*Data Transfer Object*) e Tratamento Global de Exceções com `@ControllerAdvice` e `@Valid`.
 
+#### **Front-End & Web (Fundamentos)**
+- **Linguagens:** HTML5, CSS3 e JavaScript (ES6+).
+- **Conceitos:** Consumo de APIs RESTful e integração básica com o Back-End.
+
 #### **Qualidade & Testes Automatizados**
 - **Ferramentas:** JUnit 5, Mockito, MockMvc.
 - **Práticas:** Isolamento de dependências (*Mocks/Stubs*), verificação de contratos JSON (`jsonPath`), asserção de status HTTP (200, 201, 204, 400, 404) e validação de cenários de erro e exceções de banco de dados.
