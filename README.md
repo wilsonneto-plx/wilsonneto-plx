@@ -2,7 +2,7 @@
 
 🧑‍💻 **Estudante de Ciência da Computação (3° Período) na UESPI** | **Desenvolvedor Back-End Java**
 
-Sou um desenvolvedor apaixonado por arquitetura limpa, APIs bem estruturadas e qualidade de software. Atualmente, concilio minha graduação com especialização intensiva em **Java e ecossistema Spring** através da Alura, focando na construção de APIs RESTful robustas, testadas e seguras.
+Sou um desenvolvedor com foco em arquitetura limpa, APIs bem estruturadas e qualidade de software. Atualmente, concilio minha graduação com especialização intensiva em **Java e ecossistema Spring** através da Alura, focando na construção de APIs RESTful robustas, testadas e seguras.
 
 ---
 
