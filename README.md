@@ -9,6 +9,7 @@ Sou um desenvolvedor com foco em arquitetura limpa, APIs bem estruturadas e qual
 ### 🎯 O que estou fazendo agora:
 - 🎓 Cursando **Ciência da Computação** na Universidade Estadual do Piauí (UESPI).
 - ☕ Aprofundando estudos em **Java, Spring Boot e Arquitetura de Software**.
+- 📊 Explorando o universo de dados, com foco em consultas avançadas e modelagem em **SQL** e criação de dashboards com **Power BI**.
 - 🐳 Estudando **DevOps**, com foco em conteinerização de aplicações e persistência de dados utilizando **Docker e Docker Compose**.
 - 🧪 Mapeando e escrevendo testes automatizados (Testes Unitários e de Integração com **JUnit 5 e Mockito**) para garantir contratos de API confiáveis.
 - 🚀 Buscando minha primeira oportunidade ou estágio na área de Desenvolvimento Back-End.
