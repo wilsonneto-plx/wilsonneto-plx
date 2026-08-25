@@ -33,9 +33,12 @@ Sou um desenvolvedor com foco em arquitetura limpa, APIs bem estruturadas e qual
 - **Ferramentas:** JUnit 5, Mockito, MockMvc.
 - **Práticas:** Isolamento de dependências (*Mocks/Stubs*), verificação de contratos JSON (`jsonPath`), asserção de status HTTP (200, 201, 204, 400, 404) e validação de cenários de erro e exceções de banco de dados.
 
-#### **Banco de Dados & Ferramentas**
-- **Bancos Relacionais:** PostgreSQL, MySQL.
-- **Ferramentas:** Git, GitHub, Postman, IntelliJ IDEA.
+#### **Dados & Business Intelligence**
+- **Bancos Relacionais & SQL:** PostgreSQL e MySQL. Aprofundamento em consultas complexas, modelagem e otimização.
+- **Visualização de Dados:** Power BI (criação de dashboards, visualização de dados e extração de insights).
+
+#### **Ferramentas & Versionamento**
+- **Gerais:** Git, GitHub, Postman, IntelliJ IDEA Ultimate.
 
 #### **Front-End & Web (Fundamentos)**
 - **Linguagens:** HTML5, CSS3 e JavaScript (ES6+).
