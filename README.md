@@ -2,7 +2,7 @@
 
 🧑‍💻 **Estudante de Ciência da Computação (3° Período) na UESPI** | **Desenvolvedor Back-End Java**
 
-Sou um desenvolvedor com foco em arquitetura limpa, APIs bem estruturadas e qualidade de software. Atualmente, concilio minha graduação com especialização intensiva em **Java, ecossistema Spring e práticas de DevOps** através da Alura, focando na construção de APIs RESTful robustas, testadas e seguras.
+Sou estudante de Ciência da Computação e desenvolvedor Back-End Java em formação, com foco em arquitetura limpa, APIs bem estruturadas e qualidade de software. Atualmente, concilio minha graduação aprofundando meus estudos em **Java, ecossistema Spring e práticas de DevOps** através da Alura, focando na construção de APIs RESTful robustas, testadas e documentadas.
 
 ---
 
@@ -10,7 +10,7 @@ Sou um desenvolvedor com foco em arquitetura limpa, APIs bem estruturadas e qual
 - 🎓 Cursando **Ciência da Computação** na Universidade Estadual do Piauí (UESPI).
 - ☕ Aprofundando estudos em **Java, Spring Boot e Arquitetura de Software**.
 - 📊 Explorando o universo de dados, com foco em consultas avançadas e modelagem em **SQL** e criação de dashboards com **Power BI**.
-- 🐳 Estudando **DevOps**, com foco em conteinerização de aplicações e persistência de dados utilizando **Docker e Docker Compose**.
+- 🐳 Estudando **DevOps**, com foco em conteinerização de aplicações e banco de dados, com persistência de dados através de volumes **Docker** utilizando **Docker Compose**.
 - 🧪 Mapeando e escrevendo testes automatizados (Testes Unitários e de Integração com **JUnit 5 e Mockito**) para garantir contratos de API confiáveis.
 - 🚀 Buscando minha primeira oportunidade ou estágio na área de Desenvolvimento Back-End.
 
